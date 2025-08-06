@@ -40,11 +40,11 @@ const unsigned long displayChangeInterval = 3000;
 unsigned long previousMillis = 0;
 const long interval_send = 5000;
 
-#define ACCESSKEY "1dcddcc39234bf32:9ffdab0eda98c51c"
-#define WIFISSID "Broperfikir"
-#define PASSWORD "ngoponyok"
-#define projectName "GARDEN"
-#define deviceName "GARDENN"
+#define ACCESSKEY "nama acces key di akun antares anda"
+#define WIFISSID "nama wifi "
+#define PASSWORD "sandi wifi anda"
+#define projectName "nama project/app di antares"
+#define deviceName "nama device di app/device antares"
 
 AntaresESP32MQTT antares(ACCESSKEY);
 
